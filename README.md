@@ -25,6 +25,7 @@ MacOS will install git when you install xcode components, you can do this on the
 - [Oh, shit, git! cheatsheet for when you're stuck in git](http://ohshitgit.com)
 - [write good commit messages](https://chris.beams.io/posts/git-commit/)
 - [explaination of some terms](https://help.github.com/en/articles/github-glossary)
+- [Undoing things](https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
 
 You can always use `man` to get information about specific commands!
 
