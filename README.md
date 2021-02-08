@@ -10,7 +10,7 @@ git clone https://github.com/pingiun/workshop
 
 ## Installing git
 
-You can install git on windows with the [installer](https://git-scm.com/download/win)
+You can install git on windows with the [installer](https://git-scm.com/download/win), but it's generally adviced to use WSL instead. This gives you a "fake" Linux environment on Windows which will work more seamlessly with git.
 
 On Ubuntu you can run `sudo apt install git`, and on other distro's you have to adapt that command to your package manger.
 
