@@ -8,6 +8,14 @@ You can clone this repo with:
 git clone https://github.com/pingiun/workshop
 ```
 
+## Installing git
+
+You can install git on windows with the [installer](https://git-scm.com/download/win)
+
+On Ubuntu you can run `sudo apt install git`, and on other distro's you have to adapt that command to your package manger.
+
+MacOS will install git when you install xcode components, you can do this on the command line with `xcode-select --install`.
+
 ## Git resources
 
 - [git cheatsheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
