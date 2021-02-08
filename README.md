@@ -16,6 +16,7 @@ On Ubuntu you can run `sudo apt install git`, and on other distro's you have to 
 
 MacOS will install git when you install xcode components, you can do this on the command line with `xcode-select --install`.
 
+
 ## Git resources
 
 - [git cheatsheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
